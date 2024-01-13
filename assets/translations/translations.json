@@ -1,0 +1,373 @@
+{
+    "home": {
+        "pt-BR": "Início",
+        "en-US": "Home"
+    },
+    "about": {
+        "pt-BR": "Sobre Nós",
+        "en-US": "About Us"
+    },
+    "menu": {
+        "pt-BR": "Cardápio",
+        "en-US": "Menu"
+    },
+    "location": {
+        "pt-BR": "Local",
+        "en-US": "Location"
+    },
+    "search": {
+        "pt-BR": "Pesquisar",
+        "en-US": "Search"
+    },
+    "submit": {
+        "pt-BR": "Buscar",
+        "en-US": "Submit"
+    },
+
+    "carousel1.title": {
+      "pt-BR": "A melhor experiência gastronômica de café",
+      "en-US": "The best coffee gastronomic experience"
+    },
+    "carousel1.description": {
+      "pt-BR": "Você vai experenciar os melhores cafés do Brasil e do mundo",
+      "en-US": "You will experience the best coffees from Brazil and around the world"
+    },  
+    "carousel2.title": {
+        "pt-BR": "Um ambiente pensado para você e sua família",
+        "en-US": "A setting designed for you and your family"
+    },
+    "carousel2.description": {
+        "pt-BR": "Nosso restaurante foi pensado para te fornecer um ambiente confortável, tranquilo e leve.",
+        "en-US": "Our restaurant is designed to provide you with a comfortable, peaceful, and light environment."
+    },
+    "carousel3.title": {
+        "pt-BR": "Os melhores grãos",
+        "en-US": "The finest coffee beans"
+    },
+    "carousel3.description": {
+        "pt-BR": "Trabalhamos com ingredientes selecionados, da melhor qualidade, do jeito que você merece!",
+        "en-US": "We work with selected ingredients, of the highest quality, just the way you deserve!"
+    },
+
+    "blockquote-description": {
+        "pt-BR": "O amor é um café às oito da manhã numa segunda.",
+        "en-US": "Love is a cup of coffee at eight in the morning on a Monday."
+      },
+      "citeText": {
+        "pt-BR": "Cafeteria",
+        "en-US": "Coffee Shop"
+    },    
+
+      "cardTitle1": {
+        "pt-BR": "Somos apaixonados por café",
+        "en-US": "We are passionate about coffee"
+      },
+      "cardSubtitle1": {
+        "pt-BR": "Acreditamos que o café pode mudar o (seu) mundo.",
+        "en-US": "We believe that coffee can change (your) world."
+      },
+      "cardText1": {
+        "pt-BR": "Nossa jornada começa na escolha cuidadosa dos grãos, buscando sempre a perfeição em cada xícara. Combinamos tradição e inovação para criar experiências únicas de sabor, aroma e qualidade, celebrando a rica cultura do café.",
+        "en-US": "Our journey begins with the careful selection of beans, always seeking perfection in each cup. We combine tradition and innovation to create unique experiences of flavor, aroma, and quality, celebrating the rich culture of coffee."
+    },    
+      "cardTitle2": {
+        "pt-BR": "Equipe premium de baristas",
+        "en-US": "Premium Barista Team"
+      },
+
+      "cardSubtitle2": {
+        "pt-BR": "Profissionais especializados para levar o melhor do café até a sua mesa",
+        "en-US": "Specialized professionals to bring the best of coffee to your table"
+      },
+      "cardText2": {
+        "pt-BR": "Nossa equipe de baristas é formada por especialistas apaixonados e dedicados à arte do café. Eles trazem não apenas técnica e habilidade, mas uma paixão genuína por apresentar a você o melhor de cada grão, em cada gole.",
+        "en-US": "Our team of baristas consists of passionate experts dedicated to the art of coffee. They bring not just technique and skill, but a genuine passion for presenting you with the best of each bean, in every sip."
+    },    
+
+      "expresso": {
+        "pt-BR": "Expresso",
+        "en-US": "Espresso"
+      },
+      "capuccinos": {
+        "pt-BR": "Capuccinos",
+        "en-US": "Cappuccinos"
+      },
+      "gelados": {
+        "pt-BR": "Gelados",
+        "en-US": "Iced Coffees"
+      },
+      "especiais": {
+        "pt-BR": "Especiais",
+        "en-US": "Specials"
+      },
+
+      "espresso1": {
+        "pt-BR": {
+          "title": "Café Expresso 01",
+          "price": "R$ 20,00"
+        },
+        "en-US": {
+          "title": "Espresso 01",
+          "price": "$ 20.00"
+        }
+      },
+      "espresso2": {
+        "pt-BR": {
+          "title": "Café Expresso 02",
+          "price": "R$ 15,00"
+        },
+        "en-US": {
+          "title": "Espresso 02",
+          "price": "$ 15.00"
+        }
+      },
+      "espresso3": {
+        "pt-BR": {
+          "title": "Café Expresso 03",
+          "price": "R$ 25,00"
+        },
+        "en-US": {
+          "title": "Espresso 03",
+          "price": "$ 25.00"
+        }
+      },
+      "espresso4": {
+        "pt-BR": {
+          "title": "Café Expresso 04",
+          "price": "R$ 22,00"
+        },
+        "en-US": {
+          "title": "Espresso 04",
+          "price": "$ 22.00"
+        }
+      },
+      "espresso5": {
+        "pt-BR": {
+          "title": "Café Expresso 05",
+          "price": "R$ 8,00"
+        },
+        "en-US": {
+          "title": "Espresso 05",
+          "price": "$ 8.00"
+        }
+      },
+      "espresso6": {
+        "pt-BR": {
+          "title": "Café Expresso 06",
+          "price": "R$ 18,00"
+        },
+        "en-US": {
+          "title": "Espresso 06",
+          "price": "$ 18.00"
+        }
+      },
+
+      "capuccino1": {
+        "pt-BR": {
+          "title": "Capuccino 01",
+          "price": "R$ 20,00"
+        },
+        "en-US": {
+          "title": "Capuccino 01",
+          "price": "$ 20.00"
+        }
+      },
+      "capuccino2": {
+        "pt-BR": {
+          "title": "Capuccino 02",
+          "price": "R$ 15,00"
+        },
+        "en-US": {
+          "title": "Capuccino 02",
+          "price": "$ 15.00"
+        }
+      },
+      "capuccino3": {
+        "pt-BR": {
+          "title": "Capuccino 03",
+          "price": "R$ 25,00"
+        },
+        "en-US": {
+          "title": "Capuccino 03",
+          "price": "$ 25.00"
+        }
+      },
+      "capuccino4": {
+        "pt-BR": {
+          "title": "Capuccino 04",
+          "price": "R$ 22,00"
+        },
+        "en-US": {
+          "title": "Capuccino 04",
+          "price": "$ 22.00"
+        }
+      },
+      "capuccino5": {
+        "pt-BR": {
+          "title": "Capuccino 05",
+          "price": "R$ 8,00"
+        },
+        "en-US": {
+          "title": "Capuccino 05",
+          "price": "$ 8.00"
+        }
+      },
+      "capuccino6": {
+        "pt-BR": {
+          "title": "Capuccino 06",
+          "price": "R$ 18,00"
+        },
+        "en-US": {
+          "title": "Capuccino 06",
+          "price": "$ 18.00"
+        }
+      },
+
+      "gelado1": {
+        "pt-BR": {
+          "title": "Café Gelado 01",
+          "price": "R$ 20,00"
+        },
+        "en-US": {
+          "title": "Iced Coffee 01",
+          "price": "$ 20.00"
+        }
+      },
+      "gelado2": {
+        "pt-BR": {
+          "title": "Café Gelado 02",
+          "price": "R$ 15,00"
+        },
+        "en-US": {
+          "title": "Iced Coffee 02",
+          "price": "$ 15.00"
+        }
+      },
+      "gelado3": {
+        "pt-BR": {
+          "title": "Café Gelado 03",
+          "price": "R$ 25,00"
+        },
+        "en-US": {
+          "title": "Iced Coffee 03",
+          "price": "$ 25.00"
+        }
+      },
+      "gelado4": {
+        "pt-BR": {
+          "title": "Café Gelado 04",
+          "price": "R$ 22,00"
+        },
+        "en-US": {
+          "title": "Iced Coffee 04",
+          "price": "$ 22.00"
+        }
+      },
+      "gelado5": {
+        "pt-BR": {
+          "title": "Café Gelado 05",
+          "price": "R$ 8,00"
+        },
+        "en-US": {
+          "title": "Iced Coffee 05",
+          "price": "$ 8.00"
+        }
+      },
+      "gelado6": {
+        "pt-BR": {
+          "title": "Café Gelado 06",
+          "price": "R$ 18,00"
+        },
+        "en-US": {
+          "title": "Iced Coffee 06",
+          "price": "$ 18.00"
+        }
+      },
+
+      "especial1": {
+        "pt-BR": {
+          "title": "Café Especial 01",
+          "price": "R$ 20,00"
+        },
+        "en-US": {
+          "title": "Special Coffee 01",
+          "price": "$ 20.00"
+        }
+      },
+      "especial2": {
+        "pt-BR": {
+          "title": "Café Especial 02",
+          "price": "R$ 15,00"
+        },
+        "en-US": {
+          "title": "Special Coffee 02",
+          "price": "$ 15.00"
+        }
+      },
+      "especial3": {
+        "pt-BR": {
+          "title": "Café Especial 03",
+          "price": "R$ 25,00"
+        },
+        "en-US": {
+          "title": "Special Coffee 03",
+          "price": "$ 25.00"
+        }
+      },
+      "especial4": {
+        "pt-BR": {
+          "title": "Café Especial 04",
+          "price": "R$ 22,00"
+        },
+        "en-US": {
+          "title": "Special Coffee 04",
+          "price": "$ 22.00"
+        }
+      },
+      "especial5": {
+        "pt-BR": {
+          "title": "Café Especial 05",
+          "price": "R$ 8,00"
+        },
+        "en-US": {
+          "title": "Special Coffee 05",
+          "price": "$ 8.00"
+        }
+      },
+      "especial6": {
+        "pt-BR": {
+          "title": "Café Especial 06",
+          "price": "R$ 18,00"
+        },
+        "en-US": {
+          "title": "Special Coffee 06",
+          "price": "$ 18.00"
+        }
+      },
+
+      "buttonModal": {
+        "pt-BR": "Quero conhecer o coffee shop",
+        "en-US": "I want to explore the coffee shop"
+      },
+
+      "localModalLabel": {
+        "pt-BR": "Estamos te esperando!",
+        "en-US": "We are waiting for you!"
+    },
+
+    "modalBody": {
+        "pt-BR": "Te esperamos em Recife-PE",
+        "en-US": "We await your visit in Recife, PE"
+    },
+
+    "modalFooterButton": {
+        "pt-BR": "Fechar",
+        "en-US": "Close"
+    },
+
+    "footerText": {
+        "pt-BR": "Coffee Shop | Transformando sua experiência com café.",
+        "en-US": "Coffee Shop | Transforming your coffee experience."
+      }
+      
+}
